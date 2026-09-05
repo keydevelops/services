@@ -34,9 +34,7 @@ sites:
 status-website:
   baseUrl: /services
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: KeyDevelops Services
-  introTitle: "**KeyDevelops Services** — мониторинг доступности сервисов"
-  introMessage: Статус-страница с данными в реальном времени из нашего [GitHub-репозитория](https://github.com/keydevelops/services). Работает на GitHub Actions, Issues и Pages.
+  name: PrivateKey's Uptime
   navbar:
     - title: Status
       href: /
