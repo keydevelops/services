@@ -12,6 +12,8 @@ sites:
     url: https://cfgx.prvkey.ru
   - name: WCoord
     url: https://wcoord.prvkey.ru
+  - name: DE
+    url: http://de.prvkey.ru
 
 status-website:
   baseUrl: /services
