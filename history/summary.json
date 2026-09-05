@@ -59,17 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/noxveil.kiparis.fun.ico",
     "slug": "noxveil-kiparis",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "67.98%",
+    "uptimeDay": "67.98%",
+    "uptimeWeek": "67.98%",
+    "uptimeMonth": "67.98%",
+    "uptimeYear": "67.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-05": 0
+    }
   },
   {
     "name": "Конфигурации VPN",
