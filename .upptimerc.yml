@@ -10,9 +10,19 @@ sites:
     url: https://noxveil.kiparis.fun
   - name: CFGX
     url: https://cfgx.prvkey.ru
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: WCoord
     url: https://wcoord.prvkey.ru
-  - name: DE
+    maxRedirects: 0
+    expectedStatusCodes:
+      - 301
+      - 302
+      - 303
+      - 307
+      - 308
+  - name: DE (основной)
     url: http://de.prvkey.ru
 
 status-website:
