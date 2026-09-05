@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 474,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "time": 417,
+    "timeDay": 417,
+    "timeWeek": 417,
+    "timeMonth": 417,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 659,
-    "timeWeek": 659,
-    "timeMonth": 659,
-    "timeYear": 659,
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 716,
-    "timeWeek": 716,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "time": 669,
+    "timeDay": 669,
+    "timeWeek": 669,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/noxveil.kiparis.fun.ico",
     "slug": "noxveil-kiparis",
     "status": "down",
-    "uptime": "8.31%",
-    "uptimeDay": "8.31%",
-    "uptimeWeek": "8.31%",
-    "uptimeMonth": "8.31%",
-    "uptimeYear": "8.31%",
+    "uptime": "5.65%",
+    "uptimeDay": "5.65%",
+    "uptimeWeek": "5.65%",
+    "uptimeMonth": "5.65%",
+    "uptimeYear": "5.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 4
+      "2026-09-05": 6
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 622,
-    "timeWeek": 622,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "time": 487,
+    "timeDay": 487,
+    "timeWeek": 487,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 636,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 491,
+    "timeDay": 491,
+    "timeWeek": 491,
+    "timeMonth": 491,
+    "timeYear": 491,
     "dailyMinutesDown": {}
   }
 ]
