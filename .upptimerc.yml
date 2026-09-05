@@ -4,19 +4,25 @@ repo: services
 sites:
   - name: Germany Server
     url: http://de.prvkey.ru
+    slug: de-server
   - name: FishingBot
     url: https://fishingbot.prvkey.ru
+    slug: fishingbot
   - name: Noxveil (prvkey)
     url: https://noxveil.prvkey.ru
+    slug: noxveil-prvkey
   - name: Noxveil (kiparis)
     url: https://noxveil.kiparis.fun
+    slug: noxveil-kiparis
   - name: Конфигурации VPN
     url: https://cfgx.prvkey.ru
+    slug: flclashx-cfg
     expectedStatusCodes:
       - 200
       - 404
   - name: Координатор WTorrent
     url: https://wcoord.prvkey.ru
+    slug: wcoord
     maxRedirects: 0
     expectedStatusCodes:
       - 301
