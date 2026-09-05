@@ -2,18 +2,20 @@ owner: keydevelops
 repo: services
 
 sites:
+  - name: Germany Server
+    url: http://de.prvkey.ru
   - name: FishingBot
     url: https://fishingbot.prvkey.ru
-  - name: NoxVeil (prvkey)
+  - name: Noxveil (prvkey)
     url: https://noxveil.prvkey.ru
-  - name: NoxVeil (kiparis)
+  - name: Noxveil (kiparis)
     url: https://noxveil.kiparis.fun
-  - name: CFGX
+  - name: Конфигурации VPN
     url: https://cfgx.prvkey.ru
     expectedStatusCodes:
       - 200
       - 404
-  - name: WCoord
+  - name: Координатор WTorrent
     url: https://wcoord.prvkey.ru
     maxRedirects: 0
     expectedStatusCodes:
@@ -22,8 +24,6 @@ sites:
       - 303
       - 307
       - 308
-  - name: DE (основной)
-    url: http://de.prvkey.ru
 
 status-website:
   baseUrl: /services
