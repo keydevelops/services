@@ -32,7 +32,7 @@ sites:
       - 308
 
 status-website:
-  baseUrl: /services
+  cname: upptime.prvkey.ru
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PrivateKey's Uptime
   navbar:
