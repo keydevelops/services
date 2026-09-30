@@ -16,6 +16,9 @@ sites:
   - name: FishingBot
     url: https://fishingbot.prvkey.ru
     slug: fishingbot
+  - name: AeroLand
+    url: http://aeromolica.kiparis.fun
+    slug: aeromolica
   - name: Noxveil (prvkey)
     url: https://noxveil.prvkey.ru
     slug: noxveil-prvkey
