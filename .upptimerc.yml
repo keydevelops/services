@@ -19,12 +19,9 @@ sites:
   - name: AeroLand
     url: http://aeromolica.kiparis.fun
     slug: aeromolica
-  - name: Noxveil (prvkey)
+  - name: Noxveil
     url: https://noxveil.prvkey.ru
     slug: noxveil-prvkey
-  - name: Noxveil (kiparis)
-    url: https://noxveil.kiparis.fun
-    slug: noxveil-kiparis
   - name: Конфигурации VPN
     url: https://cfgx.prvkey.ru
     slug: flclashx-cfg
